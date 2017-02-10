@@ -1,4 +1,7 @@
-#Nikitopoulos_Dimitrios_Project ::: Sierpinski Triangle
+#SierpinskiFractal Physics204 ::: Sierpinski Triangle
+#Python program that uses turtle library to draw Sierpinski fractal.  
+#Sierpinski function parameters can be changed to draw different size triangles with different levels of recursion. 
+
 
 import turtle                               #imports turtle graphics in order to draw
 t = turtle.Turtle()
