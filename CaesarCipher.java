@@ -1,7 +1,10 @@
+//simple implementation of Caesar's cipher, encrypt your own text with a key you also choose and then decrypt.
+//Physics 204 project subject: cryptography
+
 import java.io.*;
 
 import javax.swing.JOptionPane;
-public class NIKITOPOULOS_DIMITRIOS_PROGRAM2 {
+public class CaesarCipher {
 	public static final String alphabet = "abcdefghijklmnopqrstuvwxyz";
 	
 	public static String encrypt(String orginalText, int key){
